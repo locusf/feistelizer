@@ -1,4 +1,8 @@
 /target
 builddir
-libecc/*
+cryptopp
 .vscode/*
+subprojects/benchmark-*
+subprojects/googletest-*
+subprojects/range-v3-*
+subprojects/packagecache
